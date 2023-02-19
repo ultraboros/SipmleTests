@@ -1,3 +1,6 @@
+package api;
+
+import api.Specifications;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.junit.Assert;
